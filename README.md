@@ -2,7 +2,7 @@
 
 Hosted Link: 
 
-https://team-gostops.github.io/goSTOPS_DESTINATION_KOCHI/
+https://ankitkumar1303.github.io/goSTOPS_DESTINATIONS_KOCHI_PAGE/
 
 Github Repo Link:
 
